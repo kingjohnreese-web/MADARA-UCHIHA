@@ -1,0 +1,40 @@
+{
+  "name": "madara-uchiha-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js",
+    "bot": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "madara"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "MADARA UCHIHA WhatsApp Bot",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@lipana/sdk": "^1.0.3",
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "axios": "^1.13.2",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.5",
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "ffmpeg-static": "^5.3.0",
+    "file-type": "^21.3.0",
+    "node-webpmux": "^3.2.1",
+    "nodemailer": "^7.0.12",
+    "pastebin-js": "^1.0.6",
+    "pino": "^10.1.1",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.34.5",
+    "ssl-checker": "^2.0.10",
+    "whois": "^2.16.1",
+    "youtube-search-api": "^2.0.1"
+  }
+}
