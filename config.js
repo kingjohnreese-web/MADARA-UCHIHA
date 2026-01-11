@@ -1,1 +1,56 @@
-function a0_0x1fb6(_0x27efcc,_0x2f2dfd){_0x27efcc=_0x27efcc-0x124;var _0x5a04ba=a0_0x5a04();var _0x1fb67b=_0x5a04ba[_0x27efcc];return _0x1fb67b;}function a0_0x5a04(){var _0xe3579d=['9CROxkl','233710HsZZkj','189sgnsFg','804534ccRDNL','https://files.catbox.moe/j6stud.mp3','907942fzqIZF','t.me/king_john_reese','289352lyBFIM','15yHwCJh','John\x20Reese','2.0.0','168024xIhLZE','kingjohnreese@gmail.com','3hywSZN','https://files.catbox.moe/piq2r2.jpg','513542MSgelj','MADARA\x20UCHIHA','254745282166','3364218qmfaGl'];a0_0x5a04=function(){return _0xe3579d;};return a0_0x5a04();}var a0_0x4ee97e=a0_0x1fb6;(function(_0x5bd16e,_0x13cdf5){var _0x4a016b=a0_0x1fb6,_0x25d103=_0x5bd16e();while(!![]){try{var _0x356082=-parseInt(_0x4a016b(0x12d))/0x1+parseInt(_0x4a016b(0x136))/0x2+parseInt(_0x4a016b(0x12b))/0x3*(-parseInt(_0x4a016b(0x125))/0x4)+parseInt(_0x4a016b(0x126))/0x5*(-parseInt(_0x4a016b(0x134))/0x6)+parseInt(_0x4a016b(0x133))/0x7*(parseInt(_0x4a016b(0x129))/0x8)+parseInt(_0x4a016b(0x131))/0x9*(-parseInt(_0x4a016b(0x132))/0xa)+parseInt(_0x4a016b(0x130))/0xb;if(_0x356082===_0x13cdf5)break;else _0x25d103['push'](_0x25d103['shift']());}catch(_0xdcf177){_0x25d103['push'](_0x25d103['shift']());}}}(a0_0x5a04,0x4cfec),module['exports']={'BOT_NAME':a0_0x4ee97e(0x12e),'BOT_VERSION':a0_0x4ee97e(0x128),'BOT_CREATOR':a0_0x4ee97e(0x127),'BOT_PHONE':a0_0x4ee97e(0x12f),'BOT_EMAIL':a0_0x4ee97e(0x12a),'BOT_TELEGRAM':a0_0x4ee97e(0x124),'DEFAULT_PREFIX':'.','DEFAULT_MODE':'public','AUTO_TYPE':!![],'AUTO_RECORD':![],'PRESENCE_DURATION':0x9c40,'ANTILINK_ENABLED':![],'ANTISTICKER_ENABLED':![],'ANTIVIEWONCE_ENABLED':![],'ANTIDELETE_ENABLED':![],'ANTITAG_ENABLED':![],'ANTIGROUPMENTION_ENABLED':![],'ANTIVIEWSTATUS_ENABLED':![],'ANTIDELETESTATUS_ENABLED':![],'ANTICALL_ENABLED':![],'ANTIBUG_ENABLED':![],'ANTIBADWORD_ENABLED':![],'WELCOME_ENABLED':![],'GOODBYE_ENABLED':![],'AUTOREACT_ENABLED':![],'READRECEIPTS_ENABLED':![],'AUTOREAD_ENABLED':![],'WARN_LIMIT':0x3,'MAX_REMINDERS':0x64,'MADARA_IMAGE':a0_0x4ee97e(0x12c),'MADARA_AUDIO':a0_0x4ee97e(0x135),'COLORS':{'SUCCESS':'✅','ERROR':'❌','WARNING':'⚠️','INFO':'ℹ️'}});
+module.exports = {
+    // Bot Info
+    BOT_NAME: 'MADARA UCHIHA',
+    BOT_VERSION: '2.0.0',
+    BOT_CREATOR: 'John Reese',
+    BOT_PHONE: '254745282166',
+    BOT_EMAIL: 'kingjohnreese@gmail.com',
+    BOT_TELEGRAM: 't.me/king_john_reese',
+    
+    // Default Settings
+    DEFAULT_PREFIX: '.',
+    DEFAULT_MODE: 'public', // 'public' or 'private'
+    
+    // Presence Settings
+    AUTO_TYPE: true,
+    AUTO_RECORD: false,
+    PRESENCE_DURATION: 40000, // 40 seconds
+    
+    // Anti-Features
+    ANTILINK_ENABLED: false,
+    ANTISTICKER_ENABLED: false,
+    ANTIVIEWONCE_ENABLED: false,
+    ANTIDELETE_ENABLED: false,
+    ANTITAG_ENABLED: false,
+    ANTIGROUPMENTION_ENABLED: false,
+    ANTIVIEWSTATUS_ENABLED: false,
+    ANTIDELETESTATUS_ENABLED: false,
+    ANTICALL_ENABLED: false,
+    ANTIBUG_ENABLED: false,
+    ANTIBADWORD_ENABLED: false,
+    
+    // Welcome/Goodbye
+    WELCOME_ENABLED: false,
+    GOODBYE_ENABLED: false,
+    
+    // Features
+    AUTOREACT_ENABLED: false,
+    READRECEIPTS_ENABLED: false,
+    AUTOREAD_ENABLED: false,
+    
+    // Command Limits
+    WARN_LIMIT: 3, // Kicks after 3 warns
+    MAX_REMINDERS: 100,
+    
+    // Media
+    MADARA_IMAGE: 'https://files.catbox.moe/piq2r2.jpg',
+    MADARA_AUDIO: 'https://files.catbox.moe/j6stud.mp3',
+    
+    // Colors for logging
+    COLORS: {
+        SUCCESS: '✅',
+        ERROR: '❌',
+        WARNING: '⚠️',
+        INFO: 'ℹ️'
+    }
+};
