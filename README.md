@@ -23,17 +23,17 @@ Create a .env file or set these environment variables in your hosting environmen
 <div align="center">
 <table>
 <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Davex-254/DAVE-X" target="_blank">
+      <td><a href="https://dashboard.heroku.com/new?template=github.com/kingjohnreese-web/MADARA-UCHIHA" target="_blank">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a></td>                                      
 <td><a href="https://replit.com/github/kingjohnreese-web/MADARA-UCHIHA" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
    
 </tr>
-<td><a href="https://render.com/deploy?repo=https://github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a></td>                                    
+<td><a href="https://render.com/deploy?repo=https://github.com/kingjohnreese-web/MADARA-UCHIHA" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a></td>                                    
 <td><a href="https://railway.app/new/template?template=https://github.com/kingjohnreese-web/MADARA-UCHIHA" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
 </tr>
 <tr>
-<td><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>                                  
+<td><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/kingjohnreese-web/MADARA-UCHIHA" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>                                  
 <td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/kingjohnreese-web/MADARA-UCHIHA" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
 </tr>
 </table>
